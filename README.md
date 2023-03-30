@@ -2,8 +2,6 @@
 <h3 align="center">A programming student from Canada</h3>
 
 - 🌱 I’m currently learning **Java, C, and Python**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
