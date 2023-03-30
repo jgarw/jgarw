@@ -2,7 +2,7 @@
 <h3 align="center">A programming student from Canada</h3>
 
 - 🌱 I’m currently learning **Java, C, and Python**
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
 <p align="left">
 </p>
 
