@@ -2,7 +2,7 @@
 <h3 align="center">A programming student from Canada</h3>
 
 - 🌱 I’m currently learning **Java, C, and Python**
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwjlyqGXnYT-AhWmGVkFHU_KCxcQMygAegUIARCQAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&docid=DjMcDTxMfmhRGM&w=480&h=360&q=programming%20gif&ved=2ahUKEwjlyqGXnYT-AhWmGVkFHU_KCxcQMygAegUIARCQAg")
+
 <p align="left">
 </p>
 
